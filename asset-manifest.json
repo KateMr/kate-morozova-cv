@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kate-morozova-cv/static/css/main.393ea9d9.css",
+    "main.js": "/kate-morozova-cv/static/js/main.93379d50.js",
+    "static/media/photo.jpeg": "/kate-morozova-cv/static/media/photo.4f6048ed9d648a97a5ac.jpeg",
+    "index.html": "/kate-morozova-cv/index.html",
+    "main.393ea9d9.css.map": "/kate-morozova-cv/static/css/main.393ea9d9.css.map",
+    "main.93379d50.js.map": "/kate-morozova-cv/static/js/main.93379d50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.393ea9d9.css",
+    "static/js/main.93379d50.js"
+  ]
+}
